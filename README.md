@@ -67,3 +67,31 @@ CGPA: 8.39
 
 ---
 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-sahu-335258297">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vivek954sahu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vivek954sahu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/VivekSahu49">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,java,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,git,github,vscode,postman&perline=8" />
+</p>
+
+---
+
+> ⭐ I build scalable full-stack web applications and backend systems using the MERN stack. Passionate about clean architecture, REST APIs, authentication, and solving real-world problems through code.
